@@ -11,3 +11,5 @@ new lines in github
 change with github desktop
 
 edit in browser
+
+Add Stamat
