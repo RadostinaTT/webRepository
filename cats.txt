@@ -3,3 +3,7 @@ test local github project
 test 2
 
 new lines in local repo
+
+test 3
+
+new lines in github
